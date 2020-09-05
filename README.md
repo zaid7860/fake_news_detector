@@ -27,7 +27,10 @@ Can bring net neutrality.
 Can stop potential fraud news.
 
 
-![Test Image 1](Screenshot 2020-09-06 at 12.21.25 AM.png)
-![Test Image 1](Screenshot 2020-09-06 at 1.18.51 AM.png)
+![Test Image 1](https://github.com/zaid7860/fake_news_detector/blob/master/Screenshot%202020-09-06%20at%2012.21.25%20AM.png?raw=true)
+
+
+
+![Test Image 1](https://github.com/zaid7860/fake_news_detector/blob/master/Screenshot%202020-09-06%20at%201.18.51%20AM.png?raw=true)
 
 
